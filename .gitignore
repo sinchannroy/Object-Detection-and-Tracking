@@ -1,0 +1,4 @@
+myenv/
+opencv/
+opencv_contrib/
+__pycache__/
